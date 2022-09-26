@@ -64,7 +64,7 @@
     list-style: none;
   }
   .slot-sidebar-nav > li {
-    border-bottom: 1px solid #0092b1;
+    border-bottom: 1px solid #15b586;
     width: 100%;
     position: relative;
     display: block;
@@ -257,7 +257,7 @@
     position: relative;
   }
   .card-content {
-    background: #0092b1;
+    background: #15b586;
     margin: 5px;
     color: #fff;
     font-size: 12px;
